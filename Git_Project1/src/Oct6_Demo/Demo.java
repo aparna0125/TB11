@@ -10,5 +10,7 @@ public class Demo {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello Git");
+		Demo demo=new Demo();
+		demo.Hello();
 	}
 }
