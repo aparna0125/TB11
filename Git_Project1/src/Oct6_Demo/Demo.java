@@ -7,6 +7,11 @@ public class Demo {
 		System.out.println("Hello method");
 	}
 	
+	public void Hello1()
+	{
+		System.out.println("Hello1 method");
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println("Hello Git");
